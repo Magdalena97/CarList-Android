@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="loading_images">
+        <item>@drawable/car1</item>
+        <item>@drawable/car2</item>
+        <item>@drawable/car3</item>
+        <item>@drawable/car4</item>
+    </array>
+</resources>

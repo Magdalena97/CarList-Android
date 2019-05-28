@@ -1,0 +1,4 @@
+<resources>
+    <dimen brand="fab_margin">16dp</dimen>
+    <dimen brand="text_margin">16dp</dimen>
+</resources>
